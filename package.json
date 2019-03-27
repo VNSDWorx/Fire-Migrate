@@ -1,0 +1,15 @@
+{
+  "name": "firestore",
+  "version": "1.0.0",
+  "description": "Snippet to export from Firestore to Firestore",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vidush H. Namah",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.9.1",
+    "firebase-admin": "^7.1.1"
+  }
+}
